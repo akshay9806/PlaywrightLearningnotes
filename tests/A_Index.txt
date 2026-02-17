@@ -1,0 +1,81 @@
+31Jan
+
+Section 3>>>>Done
+page and browser fixture and config file setting
+Section4>>done
+#Locators
+#Toaster message>>text grabbing  by .textcontent()
+#and assertion applied>>by .toContainText()
+
+Section5
+#Static dropdown
+#Radiobutton
+#Checkbox
+#Blinking text
+#Hndling child windows and Tabs
+#Difference of .textcontent and .inputValues
+
+Section6>>its imp practice one more time
+Adding product to cart by for loop and if conditn
+Chaining of locators
+.isVisible
+Handling Inputdropdown>>pressSequentially
+.toHaveText("value")
+
+Section 7>UniqueGetbyLocators
+.getbylabel
+.getByPlaceholder
+.getByRole
+.getByText
+Chaining the locators
+Handling calender
+
+
+Section 8>>
+Playwright inspector
+Trace and snapshot
+Codegen
+HTML report
+
+Section 9>>
+Hidden element and expect assertions
+Handling java/js alert popups
+Mouse Hovering
+Handling Frames>><iframe
+
+Section10>>>API Test
+Section 11>>Not yet
+Section 12>>Not yet
+Section 13>>Not yet
+
+14 and 19 is IMP
+
+Section 14>>POM and Parametrization
+Section 15>>Project configuration>>Easy
+Section 16>>Test Retries+serial and parallel execution>>easy
+Section 17>>HTML-Allure reporting+CICD Jenkin integration>>easy
+Section 18>>Typesript>>Optional
+
+Section 19>>Playwright cucumber framework
+>>Cucumber Hooks>>Before and After scenarios/ before and after step
+>>Cucumber Tags
+· >>Cucumber parameterization
+
+Section 20>>Azure cloud parallel hosting& CI/CD>>>>Optional
+Section 22>>Playwright Agents &MCP
+
+Section 23>>famous JS interview Qns
+Section 24>>JS basics
+
+
+
+
+
+
+
+
+Practice>>akki8794@gmail.com>>Halliburton@2026
+
+
+
+8Oct25>>177525>>177748
